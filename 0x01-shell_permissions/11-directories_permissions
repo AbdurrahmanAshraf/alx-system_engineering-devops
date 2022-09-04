@@ -1,2 +1,2 @@
 #!/bin/bash
-find type -d chmod 755 -R./
+chmod 755 d*
